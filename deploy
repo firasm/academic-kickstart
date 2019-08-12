@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=moosvi
+HOST=coburg.dreamhost.com
+DIR=firas.moosvi.com/
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
