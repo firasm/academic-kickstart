@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "90%"
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Visualizations"
+  description = "Representing data using effective graphs, plots, and other special visualizations"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Learning Analytics"
+  description = "Extracting trends from learner data using analytical tools to improve learning"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "hospital"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Cancer Imaging"
+  description = "Probing the tumour microenvironment with MRI techniques to investigate drug effect"
 
 +++

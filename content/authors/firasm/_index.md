@@ -21,10 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Magnetic Resonance Imaging (MRI)
+- Magnetic Resonance Imaging
 - Tumour biology and physics
-- Science communication
-- Data visualization
+- Data visualization and science communication
+- Learning analytics
+- Scholarship of Teaching and Learning
 
 education:
   courses:
@@ -71,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a teaching and learning fellow in the Master of Data Science program at the University of British Columbia.
+I received my PhD in Physics from the Reinsberg lab in 2019 (also at UBC) where among other things, I developed a new MRI technique to assess the oxygenation status of tumours using independent component analysis (ICA).
+During my PhD I got interested in data science, learning analytics, and science communication and that led me to learn more about statistical techniques such as ICA and data visualization using dashboards and effective plotting.
