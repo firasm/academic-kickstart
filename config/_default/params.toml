@@ -58,16 +58,15 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "firas{AT]moosvi[DOT}com"
+email = "firas@moosvi.com"
 phone = ""
 address = "3144 Earth Sciences Building, 2329 West Mall, Vancouver, BC V6T 1Z4"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday: TBD<br>
-                  Wednesday TBD"""
+office_hours = """By appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/firas-moosvi"
+#appointment_url = "https://calendly.com/firas-moosvi"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
